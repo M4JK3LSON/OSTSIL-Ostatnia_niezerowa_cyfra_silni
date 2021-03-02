@@ -1,0 +1,12 @@
+C:\Users\Michał\source\repos\OSTSIL - Ostania niezerowa cyfra silni\bin\Debug\OSTSIL - Ostania niezerowa cyfra silni.exe.config
+C:\Users\Michał\source\repos\OSTSIL - Ostania niezerowa cyfra silni\bin\Debug\OSTSIL - Ostania niezerowa cyfra silni.exe
+C:\Users\Michał\source\repos\OSTSIL - Ostania niezerowa cyfra silni\bin\Debug\OSTSIL - Ostania niezerowa cyfra silni.pdb
+C:\Users\Michał\source\repos\OSTSIL - Ostania niezerowa cyfra silni\obj\Debug\OSTSIL - Ostania niezerowa cyfra silni.csprojAssemblyReference.cache
+C:\Users\Michał\source\repos\OSTSIL - Ostania niezerowa cyfra silni\obj\Debug\OSTSIL - Ostania niezerowa cyfra silni.exe
+C:\Users\Michał\source\repos\OSTSIL - Ostania niezerowa cyfra silni\obj\Debug\OSTSIL - Ostania niezerowa cyfra silni.pdb
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - KAROLINA\OSTSIL - Ostania niezerowa cyfra silni\bin\Debug\OSTSIL - Ostania niezerowa cyfra silni.exe.config
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - KAROLINA\OSTSIL - Ostania niezerowa cyfra silni\bin\Debug\OSTSIL - Ostania niezerowa cyfra silni.exe
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - KAROLINA\OSTSIL - Ostania niezerowa cyfra silni\bin\Debug\OSTSIL - Ostania niezerowa cyfra silni.pdb
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - KAROLINA\OSTSIL - Ostania niezerowa cyfra silni\obj\Debug\OSTSIL - Ostania niezerowa cyfra silni.csprojAssemblyReference.cache
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - KAROLINA\OSTSIL - Ostania niezerowa cyfra silni\obj\Debug\OSTSIL - Ostania niezerowa cyfra silni.exe
+C:\Users\Michał\source\repos\Algorytmy i struktury danych\PROJEKT - KAROLINA\OSTSIL - Ostania niezerowa cyfra silni\obj\Debug\OSTSIL - Ostania niezerowa cyfra silni.pdb
